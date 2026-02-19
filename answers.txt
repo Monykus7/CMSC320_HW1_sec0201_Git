@@ -7,3 +7,7 @@ Answer: Environmental science would be a great place to use Data Science. You ca
 Q4: What are you looking forward to this semester?
 
 Answer: A hackathon coming in April
+Q3: What is the difference between Merging and Rebasing?
+
+Merge preserves full history but could clutter logs. Rebase moves one branches commits to the tip of another, so it's safter for local branches.
+
