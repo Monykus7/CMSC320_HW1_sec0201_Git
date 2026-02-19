@@ -10,3 +10,4 @@ Answer: A hackathon coming in April
 Q3: What is the difference between Merging and Rebasing?
 
 Merge preserves full history but could clutter logs. Rebase moves one branches commits to the tip of another, so it's safer for local branches.
+
