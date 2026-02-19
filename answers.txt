@@ -4,3 +4,6 @@ Answer: Version control is great!
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Environmental science would be a great place to use Data Science. You can check stats on stuff like humidity across the world.
+Q3: What is the difference between Merging and Rebasing?
+
+Merge preserves full history but could clutter logs. Rebase moves one branches commits to the tip of another, so it's safter for local branches.
