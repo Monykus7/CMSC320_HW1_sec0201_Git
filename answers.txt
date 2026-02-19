@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Environmental science would be a great place to use Data Science. You can check stats on stuff like humidity across the world.
